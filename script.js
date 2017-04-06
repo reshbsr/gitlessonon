@@ -1,1 +1,3 @@
-console.log("Hello world!");
+$('#btn').on('click', function () {
+    console.log("Hello");
+});
